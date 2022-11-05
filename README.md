@@ -1,2 +1,2 @@
-# Manjushri
-Manjushri is a knowledge and resource base, designed for college students.
+# Akashic
+Akashic is a knowledge and resource base, designed for college students.
