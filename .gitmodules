@@ -6,4 +6,4 @@
 	url = git@github.com:CSU-OSA/Akashic-wiki.git
 [submodule "akashic-git"]
 	path = akashic-git
-	url = git@gitlab.com:csu-osa/akashic-git.git
+	url = git@github.com:CSU-OSA/Akashic-git.git
