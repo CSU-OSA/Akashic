@@ -1,6 +1,6 @@
-[submodule "Akashic-frontend"]
-	path = Akashic-frontend
-	url = git@github.com:CSU-OSA/Akashic-frontend.git
+[submodule "Akashic-frontend-next"]
+	path = Akashic-frontend-next
+	url = git@github.com:CSU-OSA/Akashic-frontend-next.git
 [submodule "akashic-git"]
 	path = akashic-git
 	url = git@github.com:CSU-OSA/Akashic-git.git
