@@ -1,6 +1,3 @@
 [submodule "akashic-knowledge"]
 	path = akashic-knowledge
 	url = git@github.com:CSU-OSA/Akashic-knowledge.git
-[submodule "akashic-git"]
-	path = akashic-git
-	url = git@github.com:CSU-OSA/Akashic-git.git
